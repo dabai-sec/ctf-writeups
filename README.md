@@ -11,6 +11,7 @@ pcap datasets. No production systems, no unauthorized targets.
 | Writeup | Skills | Tools |
 |---|---|---|
 | [ROP Emporium — ret2win (x86_64)](pwn/rop-emporium-ret2win/) | stack overflow, ret2win, glibc movaps stack-alignment gotcha | pwntools, objdump, readelf |
+| [ROP Emporium — split (x86_64)](pwn/rop-emporium-split/) | first ROP chain, pop rdi gadget, byte-level gadget hunting | pwntools, objdump |
 
 ### Reverse engineering
 
