@@ -26,6 +26,7 @@ pcap datasets. No production systems, no unauthorized targets.
 | Writeup | Skills | Tools |
 |---|---|---|
 | [MTA "Easy As 123" — NetSupport RAT IR](forensics/mta-easy-as-123/) | C2 pivot, Kerberos/NBNS attribution, UTF-16 string hunting | Scapy |
+| [MemLabs Lab 1 — memory forensics](forensics/memlabs-lab1/) | image ID, process timeline, console-memory triage, browser-history recovery, DIB carving | Volatility 3, Python, strings |
 
 ## Methodology
 
